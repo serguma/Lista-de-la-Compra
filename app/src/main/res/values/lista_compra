@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="productos_compra">
+        <item>Pan</item>
+        <item>Leche</item>
+        <item>Tomates</item>
+        <item>Cebollas</item>
+        <item>Pimientos</item>
+        <item>Manzanas</item>
+        <item>Naranjas</item>
+        <item>Galletas</item>
+        <item>Cervezas</item>
+        <item>Pasta</item>
+        <item>Patatas</item>
+        <item>Pollo</item>
+        <item>Carne Picada</item>
+        <item>Merluza</item>
+        <item>Huevos</item>
+        <item>Yogourt</item>
+        <item>Té</item>
+        <item>Chocolate</item>
+        <item>Frutos secos</item>
+        <item>Queso</item>
+    </string-array>
+
+</resources>
